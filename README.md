@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sprassanna
+- 👋 Hi, I’m @sprassanna, Engineering Manager
 - 👀 I’m interested in  New Technologies 
-- 🌱 I’m currently learning Graphql, React 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, AIML
+- 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me ... iamprassanna@gmail.com
 
 <!---
